@@ -20,3 +20,5 @@ git switch dev    or  git checkout dev
 git log 
 git log --oneline
 head >  means latest commit 
+
+git hooks
