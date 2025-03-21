@@ -3,3 +3,8 @@ git status
 git add .
 git  commit -m ""
 git restore .  or  git restore --staged .
+
+
+git remote add origin ""
+git remote -v
+git push origin master
