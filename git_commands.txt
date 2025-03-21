@@ -8,3 +8,9 @@ git restore .  or  git restore --staged .
 git remote add origin ""
 git remote -v
 git push origin master
+
+
+
+git branch
+git branch ""
+git switch dev    or  git checkout dev
