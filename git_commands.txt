@@ -10,3 +10,13 @@ git remote add origin ""
 git remote -v
 git push origin master
 
+
+
+git branch
+git branch ""
+git switch dev    or  git checkout dev
+
+
+git log 
+git log --oneline
+head >  means latest commit 
